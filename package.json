@@ -1,0 +1,14 @@
+{
+  "name": "tp0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node info.js",
+    "dev": "node --watch info.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
